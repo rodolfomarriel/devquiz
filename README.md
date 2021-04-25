@@ -1,6 +1,7 @@
 <div align="center" id="top"> 
-  <img src="./.github/devquiz.png" alt="Devquiz" />
+  <img src="./devquiz.png" alt="Devquiz" />
 </div>
+
 # DevQuiz
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/rodolfomarriel/devquiz">
