@@ -14,6 +14,8 @@
 
 </p>
 
+## Introduction
+
 Project to help people study and test knowledge about the technology studied.
 
 ## Getting Started
