@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./devquiz.png" alt="Devquiz" />
+  <img src="./devquiznlw5.png" alt="Devquiz" />
 </div>
 
 # DevQuiz
