@@ -2,7 +2,8 @@
   <img src="./devquiznlw5.png" alt="Devquiz" />
 </div>
 
-# DevQuiz
+<h1 align="center">DevQuiz</h1>
+
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/rodolfomarriel/devquiz">
 
@@ -23,7 +24,7 @@ Project to help people study and test knowledge about the technology studied.
    First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
    
    - Clone this repository:
-   $ git clone https://github.com/rodolfomarriel/devquiz.git DevQuiz
+   $ git clone https://github.com/rodolfomarriel/devquiz.git
 
    - Enter in directory:
    $ cd DevQuiz
@@ -33,6 +34,9 @@ Project to help people study and test knowledge about the technology studied.
 
    - Run the app: 
    $ flutter run
+
+   - Open the code: 
+   $ code .
    ```
 
 ## Getting Started
@@ -51,4 +55,5 @@ samples, guidance on mobile development, and a full API reference.
 ## License
 This repository is under <a href="./LICENSE">MIT license</a>.
 
-Develop for <a href="https://github.com/rodolfomarriel" target="_blank">Rodolfo</a>, in #NextLevelWeek05 from **[Rocketseat](https://rocketseat.com.br/)**.
+##
+Develop by <a href="https://github.com/rodolfomarriel" target="_blank">Rodolfo</a>, in #NextLevelWeek05 from **[Rocketseat](https://rocketseat.com.br/)**.
