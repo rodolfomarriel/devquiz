@@ -23,7 +23,7 @@ Project to help people study and test knowledge about the technology studied.
    First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
    
    - Clone this repository:
-   $ git clone https://github.com/felipecastrosales/DevQuiz DevQuiz
+   $ git clone https://github.com/rodolfomarriel/devquiz.git DevQuiz
 
    - Enter in directory:
    $ cd DevQuiz
