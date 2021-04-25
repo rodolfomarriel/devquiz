@@ -11,7 +11,6 @@
 
   <img alt="Licença" src="https://img.shields.io/github/license/rodolfomarriel/devquiz">
 
-  <img alt="CI/CD" src="https://github.com/rodolfomarriel/devquiz/actions/workflows/flutter-ci.yml/badge.svg">
 </p>
 
 Project to help people study and test knowledge about the technology studied.
@@ -29,4 +28,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Feito por <a href="https://github.com/rodolfomarriel" target="_blank">Rodolfo</a>
+Made for <a href="https://github.com/rodolfomarriel" target="_blank">Rodolfo</a>
