@@ -18,6 +18,23 @@
 
 Project to help people study and test knowledge about the technology studied.
 
+## How to Use
+```
+   First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
+   
+   - Clone this repository:
+   $ git clone https://github.com/felipecastrosales/DevQuiz DevQuiz
+
+   - Enter in directory:
+   $ cd DevQuiz
+
+   - For install dependencies:
+   $ flutter pub get
+
+   - Run the app: 
+   $ flutter run
+   ```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -31,4 +48,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Made for <a href="https://github.com/rodolfomarriel" target="_blank">Rodolfo</a>
+## License
+This repository is under <a href="./LICENSE">MIT license</a>.
+
+Develop for <a href="https://github.com/rodolfomarriel" target="_blank">Rodolfo</a>, in #NextLevelWeek05 from **[Rocketseat](https://rocketseat.com.br/)**.
